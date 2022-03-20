@@ -1,0 +1,19 @@
+.bg-purple {
+    background-color: purple !important;
+}
+
+.bg-blue {
+    background-color: blue !important;
+}
+
+.bg-lightblue {
+    background-color: lightblue !important;
+}
+
+.form-control {
+    margin: 10px !important;
+}
+
+.card-header {
+    background-color: rgb(173 216 230) !important;
+}
